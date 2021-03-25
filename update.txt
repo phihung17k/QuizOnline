@@ -1,0 +1,6 @@
+bỏ function default getQuizID trong table QuizID 
+thêm totalQuestion vào table Subject
+khi còn làm quiz mà start quiz khác sẽ tạo trang hỏi làm bài tiếp hay không
+tạo countdown trong khi làm quiz
+sửa lại thời gian đếm khi thoát ra vào lại quiz, load question(chuyển tiếp question)
+sửa lại history khi mà vẫn đang làm bài thi
